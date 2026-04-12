@@ -3,3 +3,6 @@
 2. `pwd` - Where am I?
 3. `ls` - What is here?
 4. `cd` - Go somewhere else.
+
+#Reading files
+cat
